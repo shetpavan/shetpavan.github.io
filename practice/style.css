@@ -1,0 +1,19 @@
+#cssid{
+    font-size: 50px;
+    text-align: center;
+    margin-top: 100px;
+    color: red ;
+    background-color: aquamarine;
+}
+.cssFontSize
+{
+    font-size: 50px;
+}
+.cssAlignment
+{
+    text-align: center;
+}
+.cssColor
+{
+    color: blue;
+}
